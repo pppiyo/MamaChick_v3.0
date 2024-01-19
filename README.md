@@ -1,2 +1,2 @@
 # MamaChick_3.0v
-Golden Phase Development of Math Platformer Game MamaChick
+Upgraded version of math Platformer Game MamaChick
